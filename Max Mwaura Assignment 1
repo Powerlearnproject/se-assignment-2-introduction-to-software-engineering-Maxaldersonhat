@@ -1,0 +1,55 @@
+1. Software Engineering is a branch of computer science that deals with the design, development, testing, and maintenance of software applications. 
+2. Software engineering is an organized way of the software development process that includes testing, design, coding, and maintenance while programming is a less structured way of writing code, testing, and deploying the software.
+3. The software development phases include
+  planning and analysis this first stage you gather both client and stakeholder requirements. you also gauge the feasibility of the product, the cost of the product, and end-user needs.
+  Requirements-This phase involves converting information gathered during planning into clear requirements for the dev teams. This phase also involves the writing of very important documents such as a software requirement specification (SRS) or product specification, 
+               a Use Case document
+  Design-This phase involves a vision of a well-elaborated software design document (SDD) that includes the system design, programming language, templates, platform to use, and application security measures. This is also where you can flowchart how the software responds to user actions.
+  Development- this phase is where  the development team members divide the project into software modules and turn the software requirement into code that makes the product. I 
+  Testing-This phase is where the quality assurance  teams perform validation testing to make sure it is functioning properly and does what it’s meant to do.
+  Deployment-This phase is where the final product is delivered to the final user.
+  Maintenance-In this phase users can find bugs that were missed in the earlier testing phase by quality assurance. These bugs are fixed for better user experience and customer retention.
+4. The agile method is a method that arranges the Software development life cycle phases into several development cycles, with the team delivering small, incremental software changes in each cycle while waterfall model arranges all the phases sequentially, with each new phase depending on the outcome of the previous one
+5. Requirements engineering is the process of defining, documenting, and maintaining requirements. It involves activities like elicitation, analysis, specification, and verification to ensure software meets stakeholders' needs. 
+Proper management improves project clarity, reduces errors, and aligns expectations.
+6. Modularity aims at creating software in a way that minimizes dependencies among the components of a system.
+Modularity enhances the maintainability and scalability of software systems by employing software modularization techniques, such as search-based optimization, clustering algorithms, and hierarchical clustering approaches, developers can extract subsystems, improve system comprehension, and remodularize source code structures 
+7. Unit Testing: Unit testing involves every module of the application gets tested respectively.
+  Integration Testing: Integration testing is a testing technique where two or more independent components are tested together.
+  System Testing: System testing is done by the tester where the entire application is tested as a single unit.
+  Acceptance Testing: Acceptance testing is done by the client where he evaluates whether the product is made by the requirement he listed out.
+  Testing is crucial in development as it allows finding bugs in the application and hence improving the quality of the product.
+8. A version control system is software that tracks the progress of code across the software development lifecycle and its multiple iterations which maintains a record of every change complete with authorship, timestamp.
+  Git
+  Apache subversion
+  Azure DevOps
+  Github
+  Concurrent version systems
+9. Software project managers are responsible for the preparation and implementation of the software projects.
+  Responsibilities of a software project manager
+  Planning Everything from Execution to Delivery of a project
+  Oversee the Software Development Team
+  Delegating Work Effectively
+  Monitoring Progress and Tracking Roadblocks
+  Managing the Deployment Deliverables
+  Challenges faced by a software project manager
+  Poor communication
+  poor budgeting
+  Skills gap
+  insufficient risk analysis
+  lack of accountability
+10. Software maintenance involves modifying and updating software after deployment.
+   types of maintenance activities
+   Preventive Maintenance- is proactive equipment maintenance before a fault or failure occurs.
+   Corrective Maintenance is correcting a problem after the computer has already broken down.
+11. ethical issues that software engineers might face
+    addictive design
+    corporate ownership of personal data
+    algorithmic bias
+    weak cyber security and personally identifiable information (PII) protection
+    overemphasis on features
+
+https://www.scaler.com/topics/software-testing/different-levels-of-testing-in-software-testing/
+https://theproductmanager.com/topics/software-development-life-cycle/#:~:text=SDLC%20consists%20of%20various%20phases,test%20execution%2C%20and%20test%20closure.
+https://www.linkedin.com/pulse/software-engineering-developer-difference-monica-kerry/
+2https://www.mtu.edu/cs/undergraduate/software/what/
